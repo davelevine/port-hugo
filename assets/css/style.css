@@ -705,7 +705,7 @@ input:checked + label span:last-child {
   display: block;
   width: 100%;
   height: 4px;
-  background: #fff;
+  background: #6f6f6f;
   position: relative;
   top: 4px;
   transition: 0.5s;
