@@ -747,7 +747,7 @@ input:checked + label span:last-child {
   top: 55px;
   left: 0;
   right: 0;
-  background: #fff;
+  background: rgb(255, 255, 255);
 }
 
 .menu-slider ul {
