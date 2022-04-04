@@ -748,7 +748,6 @@ input:checked + label span:last-child {
   left: 0;
   right: 0;
   background: transparent;
-  filter: invert(100%);
 }
 
 .menu-slider ul {
