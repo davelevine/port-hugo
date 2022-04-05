@@ -164,7 +164,6 @@
         $('.menu-container').toggleClass('menu-normal');
         $('.menu-item').toggleClass('menu-item-transparent');
         $('.desktop-menu .hvr-underline-from-left').toggleClass('dark');
-        $('.mobile-menu .hvr-underline-from-left').toggleClass('dark');
         // Toggle Logo
         toggleLogoImg('desktop-logo');
         // Toggling Mobile Menu Visibility
