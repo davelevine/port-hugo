@@ -558,7 +558,7 @@ input:checked + label span:last-child {
   position: absolute;
   left: 0;
   right: 0;
-  height: 55px;
+  height: 95px;
   /*background: #333;*/
   align-items: center;
   justify-content: center;
@@ -584,7 +584,7 @@ input:checked + label span:last-child {
   display: flex;
   align-items: center;
   position: absolute;
-  left: 1px;
+  left: 110px;
 }
 
 .menu-item {
@@ -620,7 +620,7 @@ input:checked + label span:last-child {
   justify-self: flex-end;
   height: 55px;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: flex-end;
   margin-left: 150px;
 }
 

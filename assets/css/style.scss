@@ -609,7 +609,7 @@ label {
   position: absolute;
   left: 0;
   right: 0;
-  height: 55px;
+  height: 95px;
   align-items: center;
   justify-content: center;
   font-weight: bold;
@@ -630,7 +630,7 @@ label {
   display: flex;
   align-items: center;
   position: absolute;
-  left: 1px;
+  left: 110px;
 }
 .menu-item {
   height: 100%;
@@ -682,7 +682,7 @@ label {
   justify-self: flex-end;
   height: 55px;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: flex-end;
   margin-left: 150px;
 }
 .menu-item-transparent.menu-item {
