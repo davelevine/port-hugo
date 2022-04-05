@@ -788,6 +788,7 @@ input:checked + label span:last-child {
 .about-me-text p {
   color: #6f6f6f;
   font-size: 16px;
+  text-align: justify;
 }
 
 .download-cv:hover,
